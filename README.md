@@ -60,6 +60,9 @@ Stock market historical data can be found from many places, but I choose to down
 I select Adobe stock for this project and pull up the historical data from yahoo finance. It is easy to fetch all financial data from yahoo with yfinance module.
 I import the yfinance module with import yfinance as yf method. The data covers  from 01-01-2010 to 06-17-2021.
 
+## Interacting with project
+The main findings of the code can be found at the post available [here](https://hayirici.medium.com/seattle-airbnb-data-analysis-process-with-machine-learning-algorithm-linear-regression-model-24b3b0b77abf)
+
 ## Licensing, Authors, and Acknowledgements<a name="Licensing"></a>
 
 Thank to  Udacity for a great project, and Yahoo.com for the dataset.
