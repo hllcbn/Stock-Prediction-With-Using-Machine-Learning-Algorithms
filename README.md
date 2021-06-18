@@ -10,6 +10,8 @@
 
 •	[Data](#Data)
 
+•	[Interacting with project](#Interacting)
+
 •	[Licensing, Authors, and Acknowledgements](#Licensing)
 
 
@@ -61,7 +63,7 @@ I select Adobe stock for this project and pull up the historical data from yahoo
 I import the yfinance module with import yfinance as yf method. The data covers  from 01-01-2010 to 06-17-2021.
 
 ## Interacting with project
-The main findings of the code can be found at the post available [here](https://hayirici.medium.com/seattle-airbnb-data-analysis-process-with-machine-learning-algorithm-linear-regression-model-24b3b0b77abf)
+The main findings of the code can be found at the  data science post available [here](https://hayirici.medium.com/stock-price-prediction-using-machine-learning-algorithms-961e6dce74f2)
 
 ## Licensing, Authors, and Acknowledgements<a name="Licensing"></a>
 
